@@ -1,0 +1,122 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Galinheiro com Solário",
+      "time": "2-3 dias",
+      "cost": "R$80-180",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "icon": "🐔",
+      "desc": "Área coberta + solário cercado + ninhos + poleiros. Com reaproveitamento, sai pela metade.",
+      "feeds": "Esterco vai pro minhocário. Galinhas comem restos da horta + milho do canteiro.",
+      "income": "Ovos + frangos: R$200-600/mês",
+      "materials": [
+        "Comprar mourões e tela pinteiro",
+        "Montar estrutura base e cobertura",
+        "Fazer os ninhos e poleiros",
+        "Cercar o solário"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Estufa Túnel de PVC",
+      "time": "1-2 dias",
+      "cost": "R$120-220",
+      "videoUrl": "",
+      "icon": "🌱",
+      "desc": "Estrutura de PVC + plástico. Protege contra geada, chuva e sol. Produz o ano todo.",
+      "feeds": "Irrigada com água do tanque de peixes (rica em nutrientes). Restos vegetais vão pro minhocário.",
+      "income": "Hortaliças: R$300-800/mês",
+      "materials": [
+        "Tubos de PVC 1/2\"",
+        "Plástico filme para estufa",
+        "Arame galvanizado",
+        "Montagem dos arcos"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Forno de Barro a Lenha",
+      "time": "1-2 dias",
+      "cost": "R$30-100",
+      "videoUrl": "",
+      "icon": "🔥",
+      "desc": "Feito com barro, tijolo e areia. Assa pão, pizza, biscoito. Custo quase zero.",
+      "feeds": "Usa lenha de podas do sítio. Transforma produção em produto de maior valor.",
+      "income": "Pão e pizza: R$500-2.000/mês",
+      "materials": [
+        "Tijolo maciço e barro",
+        "Areia para a base",
+        "Montar a cúpula",
+        "Secagem (fogo brando)"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Cisterna de Captação",
+      "time": "2-3 dias",
+      "cost": "R$150-300",
+      "videoUrl": "",
+      "icon": "💧",
+      "desc": "Capta água da chuva pelo telhado. Abastece todo o sistema nos meses secos.",
+      "feeds": "Alimenta tanque de peixes, irrigação da estufa e canteiro, água pro galinheiro.",
+      "income": "Economia: R$50-200/mês na conta",
+      "materials": [
+        "Calhas para o telhado",
+        "Caixa d'água ou tambor grande",
+        "Filtro de folhas (cano PVC)",
+        "Tubulação de conexão"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mini Tanque de Peixes",
+      "time": "1-2 dias",
+      "cost": "R$200-400",
+      "videoUrl": "",
+      "icon": "🐟",
+      "desc": "Caixa d'água de 5.000L com recirculação. Tilápias em 90 dias.",
+      "feeds": "Água nutritiva irriga estufa e canteiro. Restos orgânicos alimentam os peixes.",
+      "income": "Tilápias: R$200-600 por ciclo",
+      "materials": [
+        "Caixa d'água",
+        "Bomba de aquário/recirculação",
+        "Filtro biológico",
+        "Alevinos de tilápia"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Minhocário Produtor",
+      "time": "½ dia",
+      "cost": "R$30-80",
+      "videoUrl": "",
+      "icon": "🪱",
+      "desc": "Transforma esterco e restos em húmus de primeira. Minhocas viram alimento vivo.",
+      "feeds": "Recebe esterco do galinheiro + restos da estufa. Minhocas alimentam galinhas.",
+      "income": "Húmus + minhocas: R$150-400/mês",
+      "materials": [
+        "3 caixas ou baldes empilháveis",
+        "Torneira plástica",
+        "Matéria seca (serragem/folhas)",
+        "Minhocas californianas"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Canteiro de Milho e Mandioca",
+      "time": "1 dia",
+      "cost": "R$20-50",
+      "videoUrl": "",
+      "icon": "🌽",
+      "desc": "Irrigado com água do tanque. Milho vira ração. Mandioca complementa alimentação.",
+      "feeds": "Milho alimenta galinhas. Mandioca vai pro forno. Palha vai pro minhocário.",
+      "income": "Economia de R$100-200/mês em ração",
+      "materials": [
+        "Sementes de milho e manivas de mandioca",
+        "Preparo do solo e adubação (húmus)",
+        "Sistema de irrigação por gotejo"
+      ]
+    }
+  ]
+}
